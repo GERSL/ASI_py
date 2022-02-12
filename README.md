@@ -1,4 +1,4 @@
-# ASI_py
+# ASI_Python
 This is the standalone python code for calculating Artificial Surface Index (ASI). ASI was developed based on Landsat 8 imagery, but it can be applied to satellite imagery with similar spectral bands.
 
 

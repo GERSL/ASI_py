@@ -190,5 +190,5 @@ MaskLand = (MNDWI<Water_Th)
 ASI[~MaskLand] = fill_value
 
 # Write ASI.
-write_img('ASI1.tif', # Specifiy your output filename.
+write_img('ASI.tif', # Specifiy your output filename.
           proj, geotrans, ASI, fill_value)
